@@ -1,6 +1,6 @@
 ## Project Details
 
-Automating generation of Stock reports daily using Yahoo Finance API and fetching, storing it using GCP services like cloud scheduler, cloud functions, BigQuery, Cloud Storage and Data Studio
+Automating generation of Stock reports daily using Yahoo Finance API and fetching, storing it with GCP Cloud using services like cloud scheduler, cloud functions, BigQuery, Cloud Storage and Data Studio.
 
 
 ## GCP Services
