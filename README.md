@@ -10,6 +10,7 @@ Automating generation of Stock reports daily using Yahoo Finance API and fetchin
 - BigQuery
 - Cloud Storage
 - Data Studio
+- Secrets Manager
 
 ## Architecture
 
